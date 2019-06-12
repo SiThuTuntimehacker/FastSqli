@@ -1,0 +1,2 @@
+cd
+cd FastSqli && ./fastsqli.sh "$@"
