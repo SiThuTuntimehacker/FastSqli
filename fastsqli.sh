@@ -4,7 +4,10 @@ toilet -f slant --gay "SiThuTun"
 
 echo "Target site (Exam - www.facebook.com.php?id=10 )"
 
+
 read site
+
+cd
 
 cd sqlmap
 
@@ -39,6 +42,8 @@ echo "Nice For Tool Using give me Feedback"
 echo "https://m.me/TimeHacker.199"
 
 cowsay -f kiss.cow "Time/Hacker™"
+
+echo "Happy Hacking Bro"
 
 :
 :
