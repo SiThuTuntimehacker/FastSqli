@@ -4,6 +4,7 @@ toilet -f slant --gay "SiThuTun"
 
 echo "Target site (Exam - www.facebook.com.php?id=10 )"
 
+echo "SiThu-->"
 
 read site
 
