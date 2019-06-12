@@ -1,5 +1,7 @@
 FastSqli Tool
 
+[![Codacy Badge](https://app.codacy.com/project/timehacker/FastSqli/dashboard)
+
 Usage 
 
 cd FastSqli
