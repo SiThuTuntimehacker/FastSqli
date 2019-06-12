@@ -10,6 +10,7 @@ apt install toilet
 pkg install figlet
 pkg install toilet
 pkg install cowsay
-cp -r fastsqli.sh$HOME
+cp -r fastsqli /data/data/com.termux/files/usr/bin
 chmod +x *
-./fastsqli.sh
+cd 
+fastsqli
