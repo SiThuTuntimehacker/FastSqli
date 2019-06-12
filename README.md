@@ -1,6 +1,6 @@
 FastSqli Tool
 
-[![Codacy Badge]https://api.codacy.com/project/badge/Grade/ce78d45eaf3d47609879f5265a5b4b97)](https://app.codacy.com/project/timehacker/FastSqli/dashboard)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ce78d45eaf3d47609879f5265a5b4b97)](https://app.codacy.com/project/timehacker/FastSqli/dashboard)
 
 Usage 
 
